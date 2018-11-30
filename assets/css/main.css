@@ -252,17 +252,6 @@ p {
 	width: 38%;
 }
 
-@media screen and (max-width: 600px) {
-    .content__inner {
-        display: block;
-    }
-
-    .aside-nav {
-        width: 80%;
-    }
-
-
-}
 
 .mobile-menu {
     display: none;
