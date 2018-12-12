@@ -46,6 +46,7 @@ ol {
 	line-height: 1.3;
 }
 ul{
+    list-style: none;
 	line-height: 2;
 	font-weight: 500;
 }
@@ -259,7 +260,7 @@ p {
 
 .topnav {
     overflow: hidden;
-    background-color: #212121;
+    background-color: #343a40;
     position: relative;
   }
   
@@ -271,28 +272,29 @@ p {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
+    font-weight: bold;
     display: block;
   }
-  
+
   .topnav a.icon {
-    background: #212121;
+    background: #343a40;
     display: block;
     position: absolute;
     right: 0;
     top: 0;
   }
-  
+
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #8a8a8a;
     color: black;
   }
-  
+
   .active {
-    background-color: #212121;
+      height: 55px;
+    background-color: #343a40;
     color: white;
   }
-
 
 @media only screen and (max-width: 600px) {
     .aside-nav {
@@ -304,6 +306,7 @@ p {
     }
 
     .content {
-        padding: 0px 0;
+        padding-top: 0;
+        padding-bottom: 50px;
     }
 }
