@@ -255,11 +255,11 @@ p {
     background-color: #343a40;
     position: relative;
   }
-  
+
   .topnav #myLinks {
     display: none;
   }
-  
+
   .topnav a {
     color: white;
     padding: 14px 16px;
