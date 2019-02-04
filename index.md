@@ -30,7 +30,7 @@ Ternopil can be reached by rail or bus. The nearest International airport is 132
 
 #### **LANGUAGES** ####
 The official languages for all presentations are
-English, Ukrainian
+English, Ukrainian, Russian
 
 
 
