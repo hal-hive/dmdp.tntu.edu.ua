@@ -14,9 +14,7 @@ permalink: /programmcommittee/
 ### Chairman of the Organizing Committee
 
 <div class="chairmen">
-    Yasniy P. V.  (Ukraine) <br>
-    Nazarchuk Z.T.  (Ukraine) <br>
-    Kharchenko V.V.  (Ukraine) <br>
+    Maruschak P.O.  (Ukraine) <br>
 </div> 
 
 ### Scientific secretary 
@@ -31,13 +29,12 @@ permalink: /programmcommittee/
         <ul class="members-first">
             <li>Azari Z. (France)</li>
             <li>Andreikiv O. (Ukraine)</li>
-            <li>Bolshakov V. (Ukraine)</li>
             <li>Bobyr M.I. (Ukraine)</li> 
             <li>Brezinova J. (Slovakia)</li>
             <li>Gubeljak N.  (Slovenia)</li> 
             <li>Hutsaylyuk V. (Poland)</li>
-            <li>Dietzel W. (Germany)</li>
             <li>Zhuravkov М. (Belarus)</li> 
+            <li>Zinkovskii А. (Ukraine)</li>
             <li>Carpinteri A. (Italy)</li> 
             <li>Kushnir R. (Ukraine)</li> 
             <li>Kotrechko S. (Ukraine)</li> 
