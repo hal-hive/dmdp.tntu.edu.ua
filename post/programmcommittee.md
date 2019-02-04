@@ -44,6 +44,7 @@ permalink: /programmcommittee/
             <li>Lobanov L. (Ukraine)</li> 
             <li>Menou A. (Morocco)</li>
             <li>Okrajni J. (Poland)</li>
+            <li>Fomichev P. (Ukraine)</li>
         </ul>
         <ul class="members-two">
             <li>Matvienko Yu.(Russia)</li>
@@ -63,7 +64,6 @@ permalink: /programmcommittee/
             <li>Toribio J.(Spain)</li>
             <li>Troitskyi V. (Ukraine)</li>
             <li>Troshchenko V. (Ukraine)</li>
-            <li>Fomichev P. (Ukraine)</li>
             <li>Bhaskar A. (Great Britain)</li> 
          </ul>
 </div>
